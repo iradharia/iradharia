@@ -7,5 +7,5 @@
 
 
 📫 Contact Me:
--  Linkedin: https://www.linkedin.com/in/ira-dharia-787776245/
+-  [Linkedin](https://www.linkedin.com/in/ira-dharia-787776245/)
 -  Email: idharia@uci.edu
