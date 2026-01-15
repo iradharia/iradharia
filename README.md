@@ -1,6 +1,6 @@
 ## Hi, I'm Ira!
 
-🔭 I’m currently working as a Software Engineering Intern at First American. My role is focused on replacing fuzzy string matching with a more intuitive LLM based verification system for home owner deeds. Additionally, as a CS student at the University of California, Irvine and a fellow at Cornell's Break Through Tech AI Program, I am consistently deep diving into the field of machine learning and intelligent systems. Follow along my journey as I program and experiement more and feel free to contact me!
+🔭 I’m a CS student at the University of California, Irvine currently working as a Software Engineering Intern at First American. My role is focused on replacing existing systems with intuitive LLM based features for home owner deeds. Feel free to contact me!
 
 
 📫 Contact Me:
